@@ -55,3 +55,25 @@ body{
     background-image:linear-gradient(yellow,tomato);
     padding: 10px 30px;
 }
+/**ghjh**/
+.experince-area h1{
+    font-size: 50px;
+}
+.container{
+    display: flex;
+}
+.box{ 
+     width: 50%;
+     box-shadow: 10px 10px 40px gray;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding: 10px 30px;
+
+}
+#bgd{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,skyblue);
+    border-image-slice: 1;
+ }
+   
+   
